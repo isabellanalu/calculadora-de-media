@@ -5,6 +5,8 @@
     height: 500px;
     flex-direction: column;
     margin: auto;
+    gap: 12px;
+    padding: 20px;
 }
 
 .caixa {
@@ -12,7 +14,7 @@
 }
 
 #button {
-    height: 40 px;
+    height: 40px;
     background-color: #2F4F4F;
     color: #fff;
 }
